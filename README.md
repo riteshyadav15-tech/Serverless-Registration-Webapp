@@ -44,10 +44,3 @@ Access-Control-Allow-Methods: POST
 
 ## Step 5: Test the Application
 
-
-
-Follow our tutorials here: https://www.youtube.com/@amonkincloud/videos \
-Follow our blog here: https://amonkincloud.com/ \
-Follow my personal blog here:https://dev.to/yeshwanthlm/ \
-Follow us on Instagram: https://www.instagram.com/amonkincloud/ \
-For queries write to us at: amonkincloud@gmail.com 
